@@ -57,7 +57,7 @@ $$
 \sin\psi = \sin\theta \cdot \tan\left(\frac{\phi_0}{2}\right)
 $$
 
-傾斜角 $\theta$ に応じた $\phi$ - $\psi$ の関係は以下のグラフのようになる。傾斜角$\theta=45^\circ$にすると、開き角 $\phi=24^\circ$ の時に持上り角 $\psi=12.5^\circ$ 程度になる。ヒンジ傾斜角を増やせば、持上り角が増える。
+傾斜角 $\theta$ に応じた $\phi$ - $\psi$ の関係は以下のグラフのようになる。傾斜角 $\theta=45^\circ$ にすると、開き角 $\phi=24^\circ$ の時に持上り角 $\psi=12.5^\circ$ 程度になる。ヒンジ傾斜角を増やせば、持上り角が増える。
 
 ![phi-psi](pictures/phi-psi.png)
 
