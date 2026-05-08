@@ -37,7 +37,7 @@ The hinge geometry is patented in Japan for now.
 
 
 ### Concept
-- MS ergonomic keyboard と同等のキーレイアウト（中央が持ち上がったロースタッガード）
+- MS ergonomic keyboard と同等のキーレイアウト（中央が持ち上がったロウスタッガード）
 - 収納時は平らでコンパクトになる
 - No Trackpoint No Keyboard
 - パームレストがないとトラックポイントが使いずらい
