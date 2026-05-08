@@ -47,7 +47,7 @@ The hinge geometry is patented in Japan for now.
 
 
 
-左右の開き角 $\phi$ と持上り角 $\psi$ は、下記式によりヒンジ傾斜角$\theta$とヒンジ回転角$\phi_0$によって決まる。(角度の意味は下にある図面参照)
+左右の開き角 $\phi$ と持上り角 $\psi$ は、下記式によりヒンジ傾斜角 $\theta$ とヒンジ回転角 $\phi_0$ によって決まる。(角度の意味は下にある図面参照)
 
 $$
 \sin\left(\frac{\phi}{2}\right) = \cos\theta \cdot \sin\left(\frac{\phi_0}{2}\right)
