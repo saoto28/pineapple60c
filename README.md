@@ -58,12 +58,15 @@ Twitter: https://x.com/saoto28
 
 
 左右の開き角 $\phi$ と持上り角 $\psi$ は、下記式によりヒンジ傾斜角 $\theta$ とヒンジ回転角 $\phi_0$ によって決まる。(角度の意味は下にある図面参照)  
+
 $$
 \sin\left(\frac{\phi}{2}\right) = \cos\theta \cdot \sin\left(\frac{\phi_0}{2}\right)
 $$
+
 $$
 \sin\psi = \sin\theta \cdot \tan\left(\frac{\phi_0}{2}\right)
 $$
+
 傾斜角 $\theta$ に応じた $\phi$ - $\psi$ の関係は以下のグラフのようになる。傾斜角 $\theta=45^\circ$ にすると、開き角 $\phi=24^\circ$ の時に持上り角 $\psi=12.5^\circ$ 程度になる。ヒンジ傾斜角を増やせば、持上り角が増える。
 ![phi-psi](pictures/phi-psi.png)
 
