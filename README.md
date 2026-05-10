@@ -9,7 +9,7 @@ This keyboard features an ergonomic layout with a raised center and is convertib
 The hinge geometry is patented in Japan for now.
 
 ### Concept
-- Key layout equivalent to MS ergonomic keyboard (column staggered with a raised center)
+- Key layout equivalent to MS ergonomic keyboard (row staggered with a raised center)
 - Becomes flat and compact when stored
 - No Trackpoint, No Keyboard
 - Difficult to use Trackpoint without palm rests
