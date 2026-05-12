@@ -31,6 +31,9 @@ Videos:
 
 ### Casing
 
+### Schematic
+The parts marked with "X" were not surface-mounted by the vendor. The pull-down resistors on the I/O expanders were unnecessary, so I removed them.  [schematic](kicad9/pineapple60c-v10a.pdf)
+
 ### PCB
 
 ### Links
@@ -83,7 +86,7 @@ saoto.tsuchiya@gmail.com
 【図２】
 ![fig2](pictures/fig2.jpg)
 
-### connection
+### Connection
 左右基板の接続には、ヒンジ部の穴に５線FFCを通している。
 5V, GND, I2C-CLK, I2C-DAT, 左のTrackpointボタンスイッチ配線の５本を配線。
 ![FFC connection](pictures/ffc-connection.jpg)
