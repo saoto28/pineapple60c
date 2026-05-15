@@ -33,6 +33,7 @@ Videos:
 
 ### Schematic
 [schematic](kicad9/pineapple60c-v10a.pdf)  
+- The parts marked with "X" were not surface-mounted by the vendor. 
 - The pull-down resistors on the I/O expander were unnecessary, so I removed them.  
 - The SK8707-01-004 is a 3.3V specification, but its voltage rating is the same as the 5V specification, so a 3.3V regulator might not have been necessary.
 - I reversed the order of the column pins on the I/O expander compared to the IC, so I had to reverse the order in the software. I should have matched them.
