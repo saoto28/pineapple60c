@@ -32,15 +32,14 @@ Videos:
 ### Casing
 
 ### Schematic
-The parts marked with "X" were not surface-mounted by the vendor. The pull-down resistors on the I/O expanders were unnecessary, so I removed them.  [schematic](kicad9/pineapple60c-v10a.pdf)
+[schematic](kicad9/pineapple60c-v10a.pdf)  
+- The pull-down resistors on the I/O expander were unnecessary, so I removed them.  
+- The SK8707-01-004 is a 3.3V specification, but its voltage rating is the same as the 5V specification, so a 3.3V regulator might not have been necessary.
+- I reversed the order of the column pins on the I/O expander compared to the IC, so I had to reverse the order in the software. I should have matched them.
 
 ### PCB
-
-### Links
-All Pineapple projects repository:
-https://github.com/saoto28/pineapple60
-
-Twitter: https://x.com/saoto28
+![PCB](kicad9/pineapple60_f-v10.png)
+![PCB](kicad9/pineapple60_b-v10.png)
 
 
 ## <a name="japanese"></a>Japanese
@@ -99,3 +98,9 @@ saoto.tsuchiya@gmail.com
 [keyboard folder](qmkfirmware/keyboards)
 
 左側のIOエクスパンダ―とTrackpointモジュールの対応を、主にClaude-ai にコーディングしてもらう。とりあえず正常に動作するようにはできた。
+
+### Links
+All Pineapple projects repository:
+https://github.com/saoto28/pineapple60
+
+Twitter: https://x.com/saoto28
