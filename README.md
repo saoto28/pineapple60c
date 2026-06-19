@@ -42,6 +42,9 @@ Videos:
 ![PCB](kicad9/pineapple60_f-v10.png)
 ![PCB](kicad9/pineapple60_b-v10.png)
 
+### Hinge
+The centrally tilted hinge is currently patented in Japan. Personal, non-commercial use is permitted, but a separate license agreement is required for sale or commercial transfer.  
+See detail in Japanese section
 
 ## <a name="japanese"></a>Japanese
 別名 Pineapple60-C または p60c。 
