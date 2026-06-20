@@ -24,10 +24,12 @@ The hinge geometry is patented in Japan for now.
 ### Gallery
 ![open](pictures/p60c_open.jpg)
 ![close](pictures/p60c_close.jpg)
+![on PC](pictures/p60c_on_pc.jpg)
 
 Videos:  
 [demonstration](https://youtu.be/z1uILMKhQXU)  
-[4kg load test](https://youtu.be/4jUbyRcCng4)
+[4kg load test](https://youtu.be/4jUbyRcCng4)  
+[hinge motion](https://youtu.be/TRbB4dFwnPs)
 
 ### Casing
 
